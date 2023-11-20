@@ -4,20 +4,9 @@ A clone of the GitHub homepage built using React and JavaScript.
 
 ## Demo
 
-See the live demo: [https://finmee-github-homepage.vercel.app/](link-to-demo)
 
-## Features
 
-- Accurate replica of the GitHub homepage.
-- Feature 2.
-- Feature 3.
 
-## Prerequisites
-
-Before you start, ensure you have the following:
-
-- Node.js and npm installed on your system.
-- Any additional prerequisites or dependencies.
 
 ## Installation
 
