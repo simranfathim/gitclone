@@ -5,7 +5,7 @@ A clone of the GitHub homepage built using React and JavaScript.
 ## Demo
 
 
-
+https://github.com/simranfathim/gitclone.git
 
 
 ## Installation
