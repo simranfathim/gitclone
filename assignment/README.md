@@ -5,14 +5,14 @@ A clone of the GitHub homepage built using React and JavaScript.
 ## Demo
 
 
-https://github.com/simranfathim/gitclone.git
+
 
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-  
+  https://github.com/simranfathim/gitclone.git
 
  2. Navigate to the project folder:
  cd Finmee-github-homepage
