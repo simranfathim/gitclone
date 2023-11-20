@@ -12,7 +12,7 @@ A clone of the GitHub homepage built using React and JavaScript.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Anuradhagupta28/Finmee-github-homepage.git
+  
 
  2. Navigate to the project folder:
  cd Finmee-github-homepage
